@@ -1,4 +1,6 @@
 # Unified Mentor Two-Months Internship
+<img src ="https://github.com/Anjalikumariyes/Unified-Mentor-Internship-Projects/blob/main/Certificate.pdf"/>
+<img src="https://github.com/Anjalikumariyes/Unified-Mentor-Internship-Projects/blob/main/OfferLetter.pdf"/>
 
 ## Project Details
 * <a href = "https://github.com/Anjalikumariyes/Human-Resources-Analyst">Human-Resources-Analyst</a>
