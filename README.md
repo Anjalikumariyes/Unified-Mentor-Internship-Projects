@@ -1,1 +1,1 @@
-# Unified-Mentor-Internship-Projects
+# Unified Mentor Two-Months Internship
