@@ -1,5 +1,7 @@
 # Unified Mentor Two-Months Internship
+<picture>
 <img src ="https://github.com/Anjalikumariyes/Unified-Mentor-Internship-Projects/blob/main/Certificate.pdf"/>
+</picture>
 <img src="https://github.com/Anjalikumariyes/Unified-Mentor-Internship-Projects/blob/main/OfferLetter.pdf"/>
 
 ## Project Details
